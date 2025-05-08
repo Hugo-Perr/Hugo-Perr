@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Hugo Perier
+## Hi, I'm Hugo Perier 👋
 
 A data scientist with a passion for unraveling insights through neural networks (especially OCR algorithms) and crafting compelling data visualizations. I truly believe that a well-designed visual can make even the most complex data accessible, and as a visual learner myself, I experience that firsthand!
 
