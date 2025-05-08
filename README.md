@@ -5,5 +5,10 @@ A data scientist with a passion for unraveling insights through neural networks 
 Here's a peek at what you'll find on my GitHub:
 
 - 📂 I only share some undergraduate or private projects (if they are well documented) here for privacy reasons
-- 🧠 Never stop learning: I love tackling LeetCode challenges. You might find some of my solutions [here](https://github.com/Hugo-Perr/Leetcode-prep).
+- 🧠 Never stop learning: I love tackling LeetCode challenges. You might find some of my solutions [here →](https://github.com/Hugo-Perr/Leetcode-prep).
 - ✨ Fun fact: it was during my semester abroad at the University of Technology Sydney (UTS) that I realised my true calling was in the field of data science.
+
+## Find me around the web 🌎:
+
+* Everything about me in my [website →](https://night-turret-383.notion.site/Hugo-PERIER-1dea4615212e80e48384f464dfb6f0fc?pvs=4)
+* Sharing updates on [LinkedIn →](https://www.linkedin.com/in/hugo-perier/)
