@@ -4,9 +4,7 @@ A data scientist with a passion for unraveling insights through neural networks 
 
 Here's a peek at what you'll find on my GitHub:
 
-- 📂 I only share some undergraduate or private projects (if they are well documented) here for privacy reasons
-- 🧠 Never stop learning: I love tackling LeetCode challenges. You might find some of my solutions [here →](https://github.com/Hugo-Perr/Leetcode-prep).
-- ✨ Fun fact: it was during my semester abroad at the University of Technology Sydney (UTS) that I realised my true calling was in the field of data science.
+⚠️ I only share undergraduate/private projects (if they are well documented) here (for privacy reasons)
 
 ## Find me around the web 🌎:
 
